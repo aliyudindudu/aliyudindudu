@@ -4,15 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web and Mobile Developer and Designer
 -------------------------------------
 
-I'm Aliyudin, a vocational high school (SMK) student majoring in Software Engineering (RPL).
-🔭 I’m currently learning and building various applications and programs.
-🎨 I have a strong passion for UI/UX design, aiming to create clean, user-friendly, and impactful interfaces.
-💻 Experienced in both frontend and backend development, with a focus on practical, real-world projects.
-🚀 Actively exploring opportunities to contribute to open-source and expand my programming skills.
-📱 Have worked on web applications, mobile-friendly interfaces, and management systems.
-🌱 Currently improving my knowledge in product design, user experience, and scalable web systems.
-💬 Ask me about web development, UI/UX design, or creative project ideas.
-
 * ✉️  You can contact me at [aliyudinsaptari07@gmail.com](mailto:aliyudinsaptari07@gmail.com)
 * 🧠  I'm currently learning React
 
