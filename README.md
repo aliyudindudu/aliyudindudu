@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web and Mobile Developer and Designer
 -------------------------------------
 
-I'm Aliyudin Saptarinesas, a vocational high school (SMK) student majoring in Software Engineering (RPL).
+I'm Aliyudin, a vocational high school (SMK) student majoring in Software Engineering (RPL).
 🔭 I’m currently learning and building various applications and programs.
 🎨 I have a strong passion for UI/UX design, aiming to create clean, user-friendly, and impactful interfaces.
 💻 Experienced in both frontend and backend development, with a focus on practical, real-world projects.
