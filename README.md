@@ -38,7 +38,7 @@ Hi My name is Aliyudin
 </tr>
 </table>
 
-![Coding](https://web.archive.org/web/20091027124627im_/http://geocities.com/anikaoland/2/26.gif) ![Coding](https://web.archive.org/web/20091027055903im_/http://geocities.com/joshadowbeebe/a_cattyping.gif)
+![Coding](https://web.archive.org/web/20091027055903im_/http://geocities.com/joshadowbeebe/a_cattyping.gif)
 
 
 
