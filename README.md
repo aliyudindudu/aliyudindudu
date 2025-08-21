@@ -13,7 +13,7 @@ Hi My name is Aliyudin
 
 <b>Top Repositories</b>
 <div width="100%" align="center"><a href="https://github.com/aliyudindudu/DIMSum-Mobile-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aliyudindudu&repo=DIMSum-Mobile-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-* Download the App : [DIMSum](https://drive.google.com/file/d/1miWhstSMDXhTDSjGSHrNMyYCOQng2Auo/view?usp=sharing)
+* Download the App : [DIMSum]([https://capacitorjs.com/docs](https://drive.google.com/file/d/1miWhstSMDXhTDSjGSHrNMyYCOQng2Auo/view?usp=sharing))
 
 <b>Stats</b>
 
