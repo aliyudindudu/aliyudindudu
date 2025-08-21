@@ -5,19 +5,12 @@ Web and Mobile Developer and Designer
 -------------------------------------
 
 I'm Aliyudin Saptarinesas, a vocational high school (SMK) student majoring in Software Engineering (RPL).
-
 🔭 I’m currently learning and building various applications and programs.
-
 🎨 I have a strong passion for UI/UX design, aiming to create clean, user-friendly, and impactful interfaces.
-
 💻 Experienced in both frontend and backend development, with a focus on practical, real-world projects.
-
 🚀 Actively exploring opportunities to contribute to open-source and expand my programming skills.
-
 📱 Have worked on web applications, mobile-friendly interfaces, and management systems.
-
 🌱 Currently improving my knowledge in product design, user experience, and scalable web systems.
-
 💬 Ask me about web development, UI/UX design, or creative project ideas.
 
 * ✉️  You can contact me at [aliyudinsaptari07@gmail.com](mailto:aliyudinsaptari07@gmail.com)
@@ -32,7 +25,6 @@ I'm Aliyudin Saptarinesas, a vocational high school (SMK) student majoring in So
 <p align="left"> <a href="https://www.github.com/aliyudindudu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 <a href="https://www.github.com/aliyudindudu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/aliyudindudu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Badges
 
 <b>Top Repositories</b>
 
