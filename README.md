@@ -38,8 +38,6 @@ Hi My name is Aliyudin
 </tr>
 </table>
 
-![Coding](https://web.archive.org/web/20091027055903im_/http://geocities.com/joshadowbeebe/a_cattyping.gif)
-
 
 
 
