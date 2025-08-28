@@ -22,7 +22,7 @@ Hi My name is Aliyudin
 </a>
 
 <p align="center">
-  🔗 <a href="https://drive.google.com/file/d/1miWhstSMDXhTDSjGSHrNMyYCOQng2Auo/view?usp=sharing">Download the app here</a>
+  🔗 <a href="https://drive.google.com/file/d/1miWhstSMDXhTDSjGSHrNMyYCOQng2Auo/view?usp=sharing">Download the App here</a>
 </p>
 
 </td>
